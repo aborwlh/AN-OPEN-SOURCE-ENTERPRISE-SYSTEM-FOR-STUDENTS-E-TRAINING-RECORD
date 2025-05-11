@@ -32,7 +32,7 @@ Ocean E-Training is a comprehensive online learning management system designed t
 - **Responsive Design**: Access the platform from any device (desktop, tablet, mobile)
 - **Multi-language Support**: Platform supports both English and Arabic languages
 - **Certificate Verification**: Public verification system for issued certificates
-- **User Profiles**: Customizable user profiles with personal information and profile pictures
+- **User Profiles**: Customizable user profiles with personal information
 
 ## Technical Details
 
